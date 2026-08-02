@@ -24,6 +24,8 @@ There are lot of different learning repos with similar pattern: do coding in thi
 ### JavaScript 🌐
 
 - **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** by [Asabeneh](https://github.com/Asabeneh)
+- **[JavaScript30](https://javascript30.com/)** by [Wes Bos](https://github.com/wesbos)<br/>
+    🌟 One of the most famous courses in JavaScript, it requires registration but completely free, [GitHub: Starter Files + Completed solutions for the JavaScript 30 Day Challenge.](https://github.com/wesbos/JavaScript30)
 
 ### React ⚛️
 
