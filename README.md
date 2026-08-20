@@ -19,16 +19,15 @@ There are lot of different learning repos with similar pattern: do coding in thi
 ### Machine Learning 🤖
 
 - **[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)** by [Avik Jain](https://github.com/Avik-Jain) as proposed by [Siraj Raval](https://github.com/llSourcell)<br/>
-    🤖 100 Days of Machine Learning Coding as proposed by Siraj Raval
+  🤖 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
 ### JavaScript 🌐
 
 - **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** by [Asabeneh](https://github.com/Asabeneh)
 - **[JavaScript30](https://javascript30.com/)** by [Wes Bos](https://github.com/wesbos)<br/>
-    🌟 One of the most famous courses in JavaScript, it requires registration but completely free, [GitHub: Starter Files + Completed solutions for the JavaScript 30 Day Challenge.](https://github.com/wesbos/JavaScript30)
+  🌟 One of the most famous courses in JavaScript, it requires registration but completely free, [GitHub: Starter Files + Completed solutions for the JavaScript 30 Day Challenge.](https://github.com/wesbos/JavaScript30)
 - **[30 Days Of Node.js](https://github.com/nodejsera/30daysofnode)** by [Rajat Sharma](https://github.com/nodejsera) `[OUTDATED]` <br/>
-    🌟 30 days of node is a code base tutorial series for node.js which deals with providing a practical project based learning experience as well as talking about its conceptual details.
-
+  🌟 30 days of node is a code base tutorial series for node.js which deals with providing a practical project based learning experience as well as talking about its conceptual details.
 
 ### React ⚛️
 
@@ -47,6 +46,17 @@ There are lot of different learning repos with similar pattern: do coding in thi
 - **[30 Days of Rust](https://github.com/Hunterdii/30-Days-Of-Rust)** by [Het Patel](https://github.com/Hunterdii)<br/>
   ✨ Learn Rust step by step in just 30 days! Each topic builds upon the last to take you from beginner to Rustacean pro!
 
+### DevOps 🗄️
+
+- **[30 Days of DevOps](https://github.com/karadHub/100-Days-Of-DevOps)** by [Vaibhav Karad](https://github.com/karadhub)<br/>
+  🗄️ 🎯 Complete journey through 100 days of hands-on DevOps learning with practical solutions and real-world scenarios
+
+### C++ ⚙️
+
+- **[30 Days of C++](https://github.com/subhadipbhowmik/30-Days-Of-CPP)** by [Shubhadip Bhowmik](https://github.com/subhadipbhowmik)<br/>
+  🚀 30 days of CPP programming challenge is a step-by-step guide to learn CPP programming language in 30 days. 
+
+
 ## Contributing
 
-We are open for contribution please check out our [guide](./CONTRIBUTING.md) 
+We are open for contribution please check out our [guide](./CONTRIBUTING.md)
