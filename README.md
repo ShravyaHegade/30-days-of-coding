@@ -19,13 +19,16 @@ There are lot of different learning repos with similar pattern: do coding in thi
 ### Machine Learning 🤖
 
 - **[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)** by [Avik Jain](https://github.com/Avik-Jain) as proposed by [Siraj Raval](https://github.com/llSourcell)<br/>
-  100 Days of Machine Learning Coding as proposed by Siraj Raval
+    🤖 100 Days of Machine Learning Coding as proposed by Siraj Raval
 
 ### JavaScript 🌐
 
 - **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** by [Asabeneh](https://github.com/Asabeneh)
 - **[JavaScript30](https://javascript30.com/)** by [Wes Bos](https://github.com/wesbos)<br/>
     🌟 One of the most famous courses in JavaScript, it requires registration but completely free, [GitHub: Starter Files + Completed solutions for the JavaScript 30 Day Challenge.](https://github.com/wesbos/JavaScript30)
+- **[30 Days Of Node.js](https://github.com/nodejsera/30daysofnode)** by [Rajat Sharma](https://github.com/nodejsera) `[OUTDATED]` <br/>
+    🌟 30 days of node is a code base tutorial series for node.js which deals with providing a practical project based learning experience as well as talking about its conceptual details.
+
 
 ### React ⚛️
 
